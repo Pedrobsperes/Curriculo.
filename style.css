@@ -36,6 +36,7 @@ ul li{
 .curso{
     padding: 20px;
     text-align: center;
+    color: white;
 }
 
 .cursos{
@@ -45,11 +46,13 @@ ul li{
         margin: 0 auto;
         border-radius: 5px;
         font-size: 17px;
+        color: white;
 }
 
 #contato{
     text-align: center;
     padding-top: 40px;
+    color: white;
 }
 
 #rodape{
@@ -68,9 +71,13 @@ ul li{
     text-align: center;
     padding-top: 40px;
     font-size: 18px;
+    color: white;
 }
 
 .foto{
     height: 200px;
     width: auto;
+}
+header{
+    color: white;
 }
