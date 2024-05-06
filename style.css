@@ -1,0 +1,75 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#menu{
+    background-color: rgb(41, 40, 40);
+    height:100px;
+    color: rgb(43, 42, 42);
+    padding: 20px;
+    text-align: center;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(230, 6, 6);
+}
+
+ul li{
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    padding:20px;
+}
+
+.titulo{
+    text-align: center;
+    background-color: rgb(107, 104, 110);
+    padding: 10px;
+    font-size: 20px;
+}
+.curso{
+    padding: 20px;
+    text-align: center;
+}
+
+.cursos{
+    padding: 10px;
+        max-width: 400px;
+        border: solid 1px rgb(61, 61, 61);
+        margin: 0 auto;
+        border-radius: 5px;
+        font-size: 17px;
+}
+
+#contato{
+    text-align: center;
+    padding-top: 40px;
+}
+
+#rodape{
+    background-color: gray;
+    text-align: center;
+    height:100px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.zap{
+    height: 100px;
+    width: auto;
+    
+}
+#treinamento{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 18px;
+}
+
+.foto{
+    height: 200px;
+    width: auto;
+}
